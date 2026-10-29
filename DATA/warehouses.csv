@@ -1,0 +1,5 @@
+warehouse_id,warehouse_name,city,region,monthly_operating_cost,warehouse_capacity
+1,North Hub,Delhi,North,850000.0,12000
+2,South Hub,Bengaluru,South,780000.0,11000
+3,West Hub,Mumbai,West,920000.0,13500
+4,East Hub,Kolkata,East,650000.0,9000

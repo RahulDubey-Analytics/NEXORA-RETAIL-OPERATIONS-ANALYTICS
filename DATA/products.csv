@@ -1,0 +1,11 @@
+product_id,product_name,category,unit_cost,selling_price
+101,Laptop,Electronics,35000.0,45000.0
+102,Monitor,Electronics,9000.0,12000.0
+103,Keyboard,Accessories,1400.0,2000.0
+104,Mouse,Accessories,300.0,500.0
+105,Office Chair,Furniture,4500.0,6500.0
+106,Office Desk,Furniture,7000.0,9500.0
+107,Headphones,Electronics,1800.0,2800.0
+108,Webcam,Electronics,2200.0,3200.0
+109,Notebook Pack,Stationery,150.0,250.0
+110,Printer,Electronics,8000.0,10500.0
